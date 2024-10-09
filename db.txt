@@ -1,0 +1,12 @@
+dXNlcjE=:cGFzc3dvcmQxMjM=:29538128H:2023-12-31
+dXNlcjI=:cGFzc3dvcmQyMjI=:82526548H:2024-11-30
+dXNlcjM=:c2VjdXJlcGFzczEyMw==:73912032Q:2023-10-20
+dXNlcjQ=:ZmFrZXBhc3M=:69518118D:2025-01-15
+dXNlcjU=:dGVzdHBhc3M=:723511238X:2024-12-01
+dXNlcjY=:cGFzc3dvcmQ2MTIz:24318118A:2025-03-10
+dXNlcjc=:c2FtcGxlcGFzczEyMw==:15238118H:2022-11-05
+dXNlcjg=:YmFzZTY0cGFzczEyMw==:69241218X:2022-12-15
+dXNlcjk=:ZmFrZTEyMzQ=:99518118E:2020-10-25
+dXNlcmE=:Y29tcGxleHBhc3MxMjM=:89574518F:2021-11-12
+
+##############               base64 for username and password, bios serialnumber for hwid, year-month-day
